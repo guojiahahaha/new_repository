@@ -59,4 +59,4 @@ Markdowm,文本修饰语言，用特殊符号修饰正文效果<br>
 [https://github.com/guojiahahaha/new_repository?tab=readme-ov-file](https://www.github.com "点击访问“)
 
 ### 插入图片
-！[壁纸图片](C://Users//Lenovo//Desktop//1.jpg "标题")
+![20230806094423.jpg](https://postimg.cc/B8LCSgzy)
